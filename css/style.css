@@ -1,0 +1,21 @@
+body {
+    overflow-x: hidden;
+    height: 100vh;
+}
+
+img {
+    width: 20rem;
+    height: 20rem;
+}
+
+.star {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.divider {
+    width: 7rem;
+    background-color: white;
+    height: .3rem;
+    margin: 0 1rem;
+}
